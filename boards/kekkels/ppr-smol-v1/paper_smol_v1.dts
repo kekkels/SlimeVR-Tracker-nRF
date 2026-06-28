@@ -37,7 +37,7 @@ BATTSNS:P0.29(29)
 
 / {
 	model = "Paper Smol Version 1 (lsm6dsv,qmc6039,1 sw, 1 led)";
-	compatible = "kekkels,ppr-smol-v1";
+	compatible = "kekkels,paper-smol-v1";
 
 	chosen {
 		zephyr,sram = &sram0;

@@ -1,9 +1,9 @@
 # Copyright (c) 2024 Nordic Semiconductor ASA
 # SPDX-License-Identifier: Apache-2.0
 
-identifier: mochi_uf2
-name: mochi_uf2
-vendor: mocha-elec
+identifier: paper_smol_v1
+name: paper_smol_v1
+vendor: kekkels
 type: mcu
 arch: arm
 ram: 128

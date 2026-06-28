@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: Apache-2.0
 
 board:
-  name: ppr_smol_v1
+  name: paper_smol_v1
   full_name: "Paper Smol Version 1" 
   vendor: kekkels
   socs:
