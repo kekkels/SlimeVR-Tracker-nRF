@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - main
+      - tdma-rebase
   workflow_dispatch:
 
 concurrency:
