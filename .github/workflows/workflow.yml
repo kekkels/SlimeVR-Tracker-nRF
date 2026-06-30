@@ -191,7 +191,7 @@ jobs:
       matrix:
         boards: [
                   {boardname: "paper_smol_v1/nrf52833", fileformat: "uf2", filename: "paper_smol_tracker"},
-                  {boardname: "paper_smol_v1_hex/nrf52833", fileformat: "hex", filename: "paper_smol_tracker"},
+                  {boardname: "paper_smol_v1_hex/nrf52833", fileformat: "hex", filename: "paper_smol_tracker_hex"},
                 ]
     runs-on: ubuntu-latest
     steps:
