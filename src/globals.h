@@ -60,7 +60,7 @@
 #endif
 #ifndef SENSOR_QUATERNION_CORRECTION
 // correction quat for sensor to mounting orientation
-#define SENSOR_QUATERNION_CORRECTION 1.0f, 0.0f, 0.0f, 0.0f
+#define SENSOR_QUATERNION_CORRECTION 0.70710678f, 0.0f, 0.0f, -0.70710678f
 #endif
 
 #endif
